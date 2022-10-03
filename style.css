@@ -2,6 +2,8 @@
     font-family: monospace;
     background: papayawhip;
     display:flex;
+    align-items: center;
+    justify-content: space-between;
   }
   
   .logo {
@@ -25,3 +27,8 @@
     /* this removes the line under the links */
     text-decoration: none;
   }
+
+  /* .right-links 
+  {
+    text-align: right;
+  } */
